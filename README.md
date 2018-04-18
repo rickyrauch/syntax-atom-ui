@@ -1,5 +1,17 @@
-# My UI theme
+# Framer UI Theme
 
-A short description of your theme.
+![preview](https://github.com/framer/framersyntax/raw/master/framer-syntax.jpg)
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+## Introduction
+
+A dark theme that has been designed with focus and clarity in mind while containing the characteristic Framer colors.
+
+## Installation
+
+Install the Framer syntax theme via Atom by going to Preferences/Settings > Install and search for Framer Syntax (make sure you're searching under "Themes"), or install through CLI:
+
+```
+apm install framer-syntax
+```
+
+**Enjoy!**

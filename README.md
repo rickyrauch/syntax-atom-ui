@@ -8,7 +8,7 @@
 
 ## Introduction
 
-A dark theme that has been designed with focus and clarity in mind while containing the characteristic Framer colors.
+A dark theme that has been designed with focus and clarity in mind while containing the characteristic Framer colors. This theme supports popular coding languages like HTML, CSS, JS, React and JSON, giving you everything you need to build amazing products for the Web.
 
 ## Installation
 
@@ -17,5 +17,3 @@ Install the Framer syntax theme via Atom by going to Preferences/Settings > Inst
 ```
 apm install framer-syntax
 ```
-
-**Enjoy!**

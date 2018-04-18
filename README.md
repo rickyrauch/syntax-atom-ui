@@ -10,7 +10,7 @@
 
 Framer Syntax is a dark, minimalist theme inspired by the Framer’s popular code editor. It supports coding languages like HTML, CSS, JS, React and JSON, giving you everything you need to build amazing products for the Web.
 
-This particular theme contains the Syntax UI for use in Atom.
+This particular theme contains the Syntax UI for use in Atom. Download the full theme <a href="https://github.com/framer/syntax-atom/">here</a>.
 
 ## Installation
 

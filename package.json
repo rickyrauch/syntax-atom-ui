@@ -2,11 +2,8 @@
   "name": "framer-ui",
   "theme": "ui",
   "version": "0.0.8",
-  "description": "A beautiful Atom ui theme inspired by Framer’s iconic code editor.",
-  "keywords": [
-    "ui",
-    "theme"
-  ],
+  "description": "A UI theme inspired by Framer’s popular code editor.",
+  "keywords": ["ui", "theme"],
   "repository": "https://github.com/framer/syntax-atom-ui",
   "license": "MIT",
   "engines": {

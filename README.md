@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/logo.png?token=ABICI1-IZg91UKkiRXCnZ0XRCriHYBPNks5a4JxLwA%3D%3D" width="134" height="134"/>
+  <img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/logo.png?token=ABICIx_8nmoNZQ_e5zUhhHAFglt22RGPks5a4KLXwA%3D%3D" width="134" height="134"/>
 </p>
 <h1 align="center">Framer Syntax</h1>
 

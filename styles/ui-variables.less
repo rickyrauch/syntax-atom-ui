@@ -17,7 +17,7 @@
 @text-color-highlight: #fff;
 @text-color-selected:  #fff;
 
-@text-color-info:    #22CCFF;
+@text-color-info:    #3F9AF7;
 @text-color-success: #99EE66;
 @text-color-warning: #B8B8B8;
 @text-color-error:   #e27e8d;
@@ -30,11 +30,11 @@
 
 @background-color-highlight: lighten(@base-background-color, 5%);
 @background-color-selected:  lighten(@base-background-color, 10%);
-@app-background-color:       darken(@base-background-color, 5%);
+@app-background-color:       @base-background-color;
 
 // Base colors
-@base-background-color: #111;
-@base-border-color:     #000;
+@base-background-color: #111111;
+@base-border-color:     #333;
 
 // Component colors
 @pane-item-background-color: @base-background-color;
@@ -46,8 +46,8 @@
 @tool-panel-background-color: @base-background-color;
 @tool-panel-border-color:     @base-border-color;
 
-@inset-panel-background-color: lighten(@base-background-color, 4%);
-@inset-panel-border-color:     @base-border-color;
+@inset-panel-background-color: #181818;
+@inset-panel-border-color:     #333;
 
 @panel-heading-background-color: lighten(@base-background-color, 4%);
 @panel-heading-border-color:     @base-border-color;
@@ -70,14 +70,14 @@
 @tree-view-border-color:     @base-border-color;
 
 // Site colors
-@ui-site-color-1: #0af; // blue
+@ui-site-color-1: #3F9AF7; // blue
 @ui-site-color-2: #99EE66; // green
 @ui-site-color-3: #FFCC33; // orange
 @ui-site-color-4: #D831B0;             // pink
 @ui-site-color-5: #EBDD5B;             // yellow
 
 // Sizes
-@font-size: 12px;
+@font-size: 13px;
 @input-font-size: 14px;
 
 @disclosure-arrow-size: 12px;
@@ -87,8 +87,8 @@
 @component-icon-size: 16px;
 @component-line-height: 25px;
 
-@tab-height: 30px;
+@tab-height: 40px;
 
 // Misc
 @component-border-radius: 2px;
-@font-family:'Roboto Mono', '.SFNSText-Regular', 'SF UI Text', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
+@font-family:'.SFNSText-Regular', 'SF UI Text', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
